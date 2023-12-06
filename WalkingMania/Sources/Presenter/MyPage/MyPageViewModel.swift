@@ -8,7 +8,7 @@
 import Foundation
 import Combine
 // Combine을 사용해야하는건가???????
-
+//??
 class MyPageViewModel: ObservableObject {
     
     
